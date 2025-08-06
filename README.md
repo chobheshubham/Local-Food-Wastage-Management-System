@@ -39,13 +39,13 @@ This system allows users to:
 
 ## 📁 Project Structure
 
-📦 project-root/
-├── app.py             # Main Streamlit app interface
-├── queries.py         # SQL queries to fetch data from database
-├── food_waste.db      # SQLite database storing all core data
-├── views/             # Streamlit view files (summary, listings, contacts, etc.)
-├── data/              # (Optional) CSV dataset files for providers, receivers, etc.
-└── README.md          # Project documentation
+📦 project-root\
+├── app.py             
+├── queries.py         
+├── food_waste.db      
+├── views/            
+├── data/              
+└── README.md          
 
 
 
