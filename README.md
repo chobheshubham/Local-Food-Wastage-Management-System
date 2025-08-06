@@ -96,5 +96,5 @@ All queries are implemented in [`queries.py`](queries.py) and visualized in the 
 Have suggestions or want to contribute? Feel free to open issues or pull requests!
 
 ## 👨‍💻 Developed By
-Shubham Chobhe
+Shubham Chobhe\
 🌐 [GitHub Profile](https://github.com/chobheshubham)
