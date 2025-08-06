@@ -97,4 +97,4 @@ Have suggestions or want to contribute? Feel free to open issues or pull request
 
 ## 👨‍💻 Developed By
 Shubham Chobhe
-🌐 GitHub Profile
+🌐 [GitHub Profile](https://github.com/chobheshubham)
